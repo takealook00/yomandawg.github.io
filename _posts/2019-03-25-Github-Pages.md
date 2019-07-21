@@ -1,4 +1,8 @@
-# Github으로 첫 블로그 포스팅하기
+---
+title: "Github Pages로 첫 블로그 포스팅하기"
+date: 2019-03-25 14:18:44 -0400
+categories: jekyll update
+---
 
 > Github Pages 서비스를 이용해 개인 블로그 만들기
 
@@ -46,7 +50,7 @@ repository 이름이 곧 pages의 sub-URL 경로가 될 것이기에 semantic하
 
 먼저 [Jekyll Theme](https://github.com/topics/jekyll-theme)에서 마음에 드는 테마를 찾습니다.
 
-![1553518421987](C:\Users\ERIC\AppData\Roaming\Typora\typora-user-images\1553518421987.png)
+![2](./static/2019-03-25-Github-Pages/2.PNG)
 
 수많은 테마가 있지만 저는 다양한 색상과 깔끔함으로 많이들 사용하는 *mmistakes*를 채택했습니다.
 
@@ -64,11 +68,11 @@ repository 이름이 곧 pages의 sub-URL 경로가 될 것이기에 semantic하
 
 테마 repository의 `_config.yml`을 내 repository로 복사해옵니다.
 
-![1553518987556](C:\Users\ERIC\AppData\Roaming\Typora\typora-user-images\1553518987556.png)
+![3](./static/2019-03-25-Github-Pages/3.PNG)
 
 파일 내용을 다음과 같이 모두 복사합니다.
 
-![1553519050636](C:\Users\ERIC\AppData\Roaming\Typora\typora-user-images\1553519050636.png)
+![4](./static/2019-03-25-Github-Pages/4.PNG)
 
 저는 불필요한 commit을 하지 않기 위해 local에서 작업했습니다.
 
@@ -161,7 +165,7 @@ author_profile: true
 
 다음과 같이 저장합니다.
 
-![5](C:\work\note\Git\5.PNG)
+![5](./static/2019-03-25-Github-Pages/5.PNG)
 
 자 드디어 모든 준비가 완료됐습니다!
 
@@ -169,9 +173,9 @@ author_profile: true
 
 여기서 **Source**를 *master branch*로 설정해주시면  
 
-![1553517224280](C:\Users\ERIC\AppData\Roaming\Typora\typora-user-images\1553517224280.png)
+![1](./static/2019-03-25-Github-Pages/1.PNG)
 
-![1553520898511](C:\Users\ERIC\AppData\Roaming\Typora\typora-user-images\1553520898511.png)
+![6](./static/2019-03-25-Github-Pages/6.PNG)
 
 위와 같은 안내문구와 함께 설정한 주소로 pages가 생성됩니다.
 
