@@ -1,7 +1,7 @@
 ---
 title: "Issues를 이용해 Github Pages 포스트에 이미지 업로드하기"
 date: 2019-07-21 21:03:02 -0400
-categories: jekyll update
+categories: Github Blog
 ---
 
 > Github issues 기능 사용해서 repository 업로드 없이 이미지 불러오기

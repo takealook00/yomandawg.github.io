@@ -1,7 +1,7 @@
 ---
 title: "Github Pages로 첫 블로그 포스팅하기"
 date: 2019-03-25 14:18:44 -0400
-categories: jekyll update
+categories: Github Blog
 ---
 
 > Github Pages 서비스를 이용해 개인 블로그 만들기
