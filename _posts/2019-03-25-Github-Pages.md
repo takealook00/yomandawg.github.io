@@ -50,7 +50,7 @@ repository 이름이 곧 pages의 sub-URL 경로가 될 것이기에 semantic하
 
 먼저 [Jekyll Theme](https://github.com/topics/jekyll-theme)에서 마음에 드는 테마를 찾습니다.
 
-![2](./static/2019-03-25-Github-Pages/2.PNG)
+![2](https://user-images.githubusercontent.com/45955154/61590773-d11ba600-abf8-11e9-93cd-e63a2611f9ea.PNG)
 
 수많은 테마가 있지만 저는 다양한 색상과 깔끔함으로 많이들 사용하는 *mmistakes*를 채택했습니다.
 
@@ -68,11 +68,11 @@ repository 이름이 곧 pages의 sub-URL 경로가 될 것이기에 semantic하
 
 테마 repository의 `_config.yml`을 내 repository로 복사해옵니다.
 
-![3](./static/2019-03-25-Github-Pages/3.PNG)
+![3](https://user-images.githubusercontent.com/45955154/61590775-d4169680-abf8-11e9-96ea-c1c3d232da65.PNG)
 
 파일 내용을 다음과 같이 모두 복사합니다.
 
-![4](./static/2019-03-25-Github-Pages/4.PNG)
+![4](https://user-images.githubusercontent.com/45955154/61590780-d7118700-abf8-11e9-8b07-4aac03615976.PNG)
 
 저는 불필요한 commit을 하지 않기 위해 local에서 작업했습니다.
 
@@ -165,7 +165,7 @@ author_profile: true
 
 다음과 같이 저장합니다.
 
-![5](./static/2019-03-25-Github-Pages/5.PNG)
+![5](https://user-images.githubusercontent.com/45955154/61590783-d973e100-abf8-11e9-8d30-5b41a98abd9c.PNG)
 
 자 드디어 모든 준비가 완료됐습니다!
 
@@ -173,9 +173,9 @@ author_profile: true
 
 여기서 **Source**를 *master branch*로 설정해주시면  
 
-![1](./static/2019-03-25-Github-Pages/1.PNG)
+![1](https://user-images.githubusercontent.com/45955154/61590771-ccef8880-abf8-11e9-9f2a-44406e22a4af.PNG)
 
-![6](./static/2019-03-25-Github-Pages/6.PNG)
+![6](https://user-images.githubusercontent.com/45955154/61590784-db3da480-abf8-11e9-8237-7073794bcd89.PNG)
 
 위와 같은 안내문구와 함께 설정한 주소로 pages가 생성됩니다.
 
