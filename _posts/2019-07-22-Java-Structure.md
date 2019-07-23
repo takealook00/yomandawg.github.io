@@ -1,7 +1,7 @@
 ---
-title: "Java 구조 이해"
-date: 2019-03-25 14:18:44 -0400
-categories: Github Blog
+title: "웹 서비스 관련 TIL"
+date: 2019-07-23 11:24:37 -0400
+categories: web java
 ---
 
 ## 컴퓨터 구조의 이해
